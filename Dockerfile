@@ -1,2 +1,2 @@
-FROM blaizedemo.azurecr.io/base
+FROM nginx
 COPY site/ /usr/share/nginx/html/
